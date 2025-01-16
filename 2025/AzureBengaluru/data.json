@@ -1,0 +1,36 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "@swaminathanvetri",
+      "@samikroy"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Bengaluru Azure Community",
+    "Country": "India",
+    "Url": "https://bengaluru.globalazure.in",
+    "SessionizeApiId": "gt0yclrz",
+    "SessionizeEventName": "{Global Azure 2025 - Bengaluru}",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (https://sessionize.com/app/organizer/event/10862) will return valid json: https://sessionize.com/app/organizer/event/10862",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named AzureBengaluru.png.",
+      "File": "logo.png"
+    },
+    "SamApp": {
+      "AdditionalHosts": [""]
+    },
+    "Locations": [
+      {
+        "Name": "Bengaluru",
+        "StartDate": "2024-05-10",
+        "EndDate": "2024-05-10",
+        "Address": "{Optional address of the location}",
+        "Latitude": 12.972442,
+        "Longitude": 77.580643
+      }
+    ]
+  }
+}

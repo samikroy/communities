@@ -1,7 +1,7 @@
 # Global Azure 2025 - Bengaluru 
 
 
-<img width="462" alt="logo" src="https://github.com/globalazure/communities/assets/20562985/da7acf0e-ad45-4238-992e-c7801486e810">
+<img width="462" alt="logo" src="https://github.com/user-attachments/assets/fc1f2567-fb0a-4906-b162-b81d7efdc65a">
 
 ## ನಮಸ್ಕಾರ , Namaskara Bengaluru 🙏
 

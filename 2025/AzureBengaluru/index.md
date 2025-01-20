@@ -1,4 +1,4 @@
-# Global Azure 2024 - Bengaluru 
+# Global Azure 2025 - Bengaluru 
 
 
 <img width="462" alt="logo" src="https://github.com/globalazure/communities/assets/20562985/da7acf0e-ad45-4238-992e-c7801486e810">
